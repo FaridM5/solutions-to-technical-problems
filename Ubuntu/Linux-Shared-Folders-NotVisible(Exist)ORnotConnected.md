@@ -1,4 +1,4 @@
-# Linux Shared Folders are NotVisible (Exist) or not Connected 
+# Linux Shared Folders are NotVisible (Not Exist) or not Connected 
 <i></i>
 <b></b>
 ## Detailed Issue Description:
